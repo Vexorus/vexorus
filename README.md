@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vexor</h1>
-<h3 align="center">Reverse engineer, information security specialist</h3>
+# Vexor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vexorus&label=Profile%20views&color=0e75b6&style=flat" alt="vexorus" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvexorus%2Fvexorus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vexorus" alt="vexorus" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vexorus&show_icons=true&locale=en&layout=compact" alt="vexorus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vexorus&show_icons=true&locale=en" alt="vexorus" /></p>
+[![Github](https://img.shields.io/github/followers/vexorus?label=Follow&style=social)](https://github.com/vexorus)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vexorus&" alt="vexorus" /></p>
+
+
+
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&color=1f138a) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&color=1f138a) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C++&color=1f138a) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=1f138a)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vexorus&show_icons=true&locale=en&layout=compact" alt="vexorus" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vexorus&" alt="vexorus" />
+</div>
